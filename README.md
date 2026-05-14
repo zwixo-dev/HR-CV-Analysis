@@ -139,6 +139,7 @@ All results are stored in a Google Sheet:
 * Time
 
 <img src="imgs/result-in-google-sheet.png">
+<img src="imgs/result-in-google-sheet(1).png">
 
 
 ## Key Logic Summary
